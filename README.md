@@ -1,4 +1,4 @@
-# System of Equation Solver with Scilab
+# System of Equations Solver with Scilab
 
 Script to solve system of equations in Scilab and a script to calculate determinant for a 3x3 matrix. 
 
